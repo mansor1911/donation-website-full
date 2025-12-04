@@ -334,7 +334,7 @@ const Donation = () => {
               <Card className="shadow-lg">
                 <CardContent className="p-6 text-center">
                   <div className="text-4xl font-bold text-green-600 mb-2">$50</div>
-                  <p className="text-gray-600">Provides meals for a family for a week</p>
+                  <p className="text-gray-600">Provide meals for a family for a week</p> 
                 </CardContent>
               </Card>
               <Card className="shadow-lg">
